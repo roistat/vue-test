@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.5",
+    "postcss-filter-plugins": "^2.0.3",
+    "uniqid": "^5.0.3",
     "vue": "^2.5.17"
   },
   "devDependencies": {
